@@ -26,6 +26,7 @@ Python · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Jupyter
 | File | What it is |
 |---|---|
 | `notebooks/marketing_campaign_analysis.ipynb` | Full analysis: cleaning, EDA, charts and models |
+| `report/Data_Science_in_Digital_Marketing_Nirav_Kathiriya.pdf` | Written report: introduction, literature review and methodology (33 pages) |
 
 ## How to run
 ```bash
